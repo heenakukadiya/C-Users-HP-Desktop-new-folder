@@ -1,0 +1,52 @@
+<table style="height: 268px;" width="454">
+	<tbody>
+		<tr>
+			<td><strong>Product Code</strong></td>
+			<td>VVST_APEX101_BLUE</td>
+		</tr>
+		<tr>
+			<td><strong>Saree Color</strong></td>
+			<td>Blue</td>
+		</tr>
+		<tr>
+			<td><strong>Saree Fabric</strong></td>
+			<td>Cotton Silk</td>
+		</tr>
+		<tr>
+			<td><strong>Saree Type</strong></td>
+			<td>Kanchivaram saree</td>
+		</tr>
+		<tr>
+			<td><strong>Saree Length</strong></td>
+			<td>5.5 Meter</td>
+		</tr>
+		<tr>
+			<td><strong>Blouse Available</strong></td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td><strong>Blouse Color</strong></td>
+			<td>Blue</td>
+		</tr>
+		<tr>
+			<td><strong>Blouse Fabric</strong></td>
+			<td>Cotton Silk</td>
+		</tr>
+		<tr>
+			<td><strong>Blouse Size</strong></td>
+			<td>0.80 meter</td>
+		</tr>
+		<tr>
+			<td><strong>Occasion</strong></td>
+			<td>Function, Wedding,Party</td>
+		</tr>
+		<tr>
+			<td><strong>Wash Care</strong></td>
+			<td>Dry Clean Recommended</td>
+		</tr>
+		<tr>
+			<td><strong>Time to Ship</strong></td>
+			<td>Ready to Ship</td>
+		</tr>
+	</tbody>
+</table>
